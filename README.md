@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am Flynn Stacey, a Full Stack Developer and Mechanical Engineering graduate.
+I am Flynn Stacey, a Full Stack Developer and Mechanical Engineering graduate with 1 year professional software engineering experience.
 
 📫 Reach out!
 Email: flynnstacey@hotmail.com
 Linkedin: https://www.linkedin.com/in/flynn-stacey/
 
-🤔 I’m looking for a Full Stack or Frontend Developer position.
+🤔
 
 Technologies I work with:
 
-React, Javascript, Nodejs, Redux, Express.js, MongoDB, CSS, Material UI, Bootstrap, Typescript, Heroku, Vercel.
+React, Javascript, Nodejs, Express.js, MongoDB, SQL, PHP, Laravel, HTML/CSS, Material UI, Redux, Typescript, Bootstrap, Tailwind, Sass. 
