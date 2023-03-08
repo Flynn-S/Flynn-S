@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Flynn Stacey, a Full Stack Developer and Mechanical Engineering graduate with 1 year professional software engineering experience.
+I am Flynn Stacey, a Junior Software Developer with 1 year professional software engineering experience specalising in frontend development.
 
 📫 Reach out!
 Email: flynnstacey@hotmail.com
